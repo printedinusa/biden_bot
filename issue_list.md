@@ -1,6 +1,6 @@
 # Issue list
 
-topic|keyworkds
+topic|key_words
 :--|:--
 all|\"\", \"all\"
 help|\"help\"
