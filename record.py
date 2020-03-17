@@ -24,7 +24,7 @@ record = [
     },
     {
         "name": "race",
-        "text": "race"
+        "text": "Hey now, poor kids are just as bright and just as talented as white kids. And as long as they take different busses to school, everything's fine! \n [Joe Biden Says ‘Poor Kids’ Are Just as Bright as ‘White Kids’](https://www.nytimes.com/2019/08/09/us/politics/joe-biden-poor-kids.html) \n [Joe Biden on segregation](https://www.nbcnews.com/news/nbcblk/joe-biden-didn-t-just-compromise-segregationists-he-fought-their-n1021626)"
     },
     {
         "name": "immigration",
