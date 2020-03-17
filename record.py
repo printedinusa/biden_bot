@@ -16,7 +16,7 @@ record = [
     },
     {
         "name": "health_care",
-        "text": "health_care"
+        "text": "I wish everyone would stop bringing this one up. Big Pharma funds my campaign, so they obviously aren't that bad after all. Let's just cut Social Security and let them take care of us \n\n [joe Biden is funded by insurance CEOs](https://readsludge.com/2019/07/18/bernie-sanders-challenges-joe-biden-to-stop-taking-money-from-pharma-and-health-insurance-executives/) \n [Joe Biden wants to cut your social security](http://inthesetimes.com/article/21856/joe-biden-cut-medicare-social-security-retirement-age) \n [BONUS: Joe Biden personally fought to make cancer treatment unaffordable to patients in developing nations](https://www.statnews.com/2017/11/30/joe-biden-drug-pricing/)"
     },
     {
         "name": "social_security",
